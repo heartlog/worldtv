@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Star_Plus" tvg-name="Star Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment",Star Plus
+#EXTINF:-1 tvg-id="Star_Plus" tvg-name="Star Plus" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarPlus.al.png" group-title="Entertainment",Star Plus
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=200
 #EXTINF:-1 tvg-id="Zee_TV" tvg-name="Zee TV" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ZeeTV.in.png" group-title="Entertainment",Zee TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=217
@@ -11,7 +11,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=160
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=144
 #EXTINF:-1 tvg-id="ABP_News" tvg-name="ABP News" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ABPNews.in.png" group-title="News",ABP News
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=149
-#EXTINF:-1 tvg-id="Star_Sports_1_Hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports",Star Sports 1 Hindi
+#EXTINF:-1 tvg-id="Star_Sports_1_Hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarSports1Hindi.in.png" group-title="Sports",Star Sports 1 Hindi
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=295
 #EXTINF:-1 tvg-id="Zee_Cinema" tvg-name="Zee Cinema" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ZeeCinema.in.png" group-title="Movies",Zee Cinema
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=213
@@ -29,7 +29,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=178
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=171
 #EXTINF:-1 tvg-id="Republic_Bharat" tvg-name="Republic Bharat" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/RepublicBharat.in.png" group-title="News",Republic Bharat
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126084
-#EXTINF:-1 tvg-id="Star_Sports_1" tvg-name="Star Sports 1" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8302-j7hc08ts-v1/imageContent-8302-j7hc08ts-m1.jpg" group-title="Sports",Star Sports 1
+#EXTINF:-1 tvg-id="Star_Sports_1" tvg-name="Star Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarSports1.in.png" group-title="Sports",Star Sports 1
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=293
 #EXTINF:-1 tvg-id="DD_News" tvg-name="DD News" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/DDNews.in.png" group-title="News",DD News
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=163
@@ -37,7 +37,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=163
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=61901
 #EXTINF:-1 tvg-id="Star_Bharat" tvg-name="Star Bharat" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarBharat.in.png" group-title="Entertainment",Star Bharat
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=195
-#EXTINF:-1 tvg-id="&TV" tvg-name="&TV" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/&tvHD_BoxCover_8f46b208-bfc8-47b1-babd-5350aad1f227.png" group-title="Entertainment",&TV
+#EXTINF:-1 tvg-id="&TV" tvg-name="&TV" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/AndTV.in.png" group-title="Entertainment",&TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=140
 #EXTINF:-1 tvg-id="9XM" tvg-name="9XM" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/9XM.in.png" group-title="Music",9XM
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=143
@@ -49,17 +49,17 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=164
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=176
 #EXTINF:-1 tvg-id="Cartoon_Network_Hindi" tvg-name="Cartoon Network Hindi" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CartoonNetworkHDPlus.in.png" group-title="Kids",Cartoon Network Hindi
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=244
-#EXTINF:-1 tvg-id="Hungama_TV" tvg-name="Hungama TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1280px-Hungama_TV.svg.png" group-title="Kids",Hungama TV
+#EXTINF:-1 tvg-id="Hungama_TV" tvg-name="Hungama TV" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/HungamaTV.in.png" group-title="Kids",Hungama TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132887
-#EXTINF:-1 tvg-id="Aastha_TV" tvg-name="Aastha TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-105-j5fl5t1k-v1/imageContent-105-j5fl5t1k-m1.png" group-title="Devotional",Aastha TV
+#EXTINF:-1 tvg-id="Aastha_TV" tvg-name="Aastha TV" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/AsthaTV.id.png" group-title="Devotional",Aastha TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=147
-#EXTINF:-1 tvg-id="Sanskar_TV" tvg-name="Sanskar TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-123-j5fnf1fc-v1/imageContent-123-j5fnf1fc-m1.png" group-title="Devotional",Sanskar TV
+#EXTINF:-1 tvg-id="Sanskar_TV" tvg-name="Sanskar TV" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/SanskarTV.in.png" group-title="Devotional",Sanskar TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=181
 #EXTINF:-1 tvg-id="Zee_Business" tvg-name="Zee Business" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ZeeBusiness.in.png" group-title="Business",Zee Business
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=211
-#EXTINF:-1 tvg-id="CNBC_TV18" tvg-name="CNBC TV18" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/CNBCTV18_BoxCover_bd1b4c9a-6397-4a2f-bbee-b78bd2e3bdf2.png" group-title="Business",CNBC TV18
+#EXTINF:-1 tvg-id="CNBC_TV18" tvg-name="CNBC TV18" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CNBCTV18.in.png" group-title="Business",CNBC TV18
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=49404
-#EXTINF:-1 tvg-id="Times_Now" tvg-name="Times Now" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-303-j5ji8zco-v3/imageContent-303-j5ji8zco-m3.png" group-title="News",Times Now
+#EXTINF:-1 tvg-id="Times_Now" tvg-name="Times Now" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/TimesNow.in.png" group-title="News",Times Now
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=204
 #EXTINF:-1 tvg-id="Republic_TV" tvg-name="Republic TV" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/RepublicTV.in.png" group-title="News",Republic TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=33168
@@ -75,7 +75,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=139
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=152
 #EXTINF:-1 tvg-id="Colors_Cineplex" tvg-name="Colors Cineplex" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ColorsCineplex.in.png" group-title="Movies",Colors Cineplex
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=470
-#EXTINF:-1 tvg-id="Zoom" tvg-name="Zoom" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24697-jgrq0eoo-v1/imageContent-24697-jgrq0eoo-m1.jpg" group-title="Music",Zoom
+#EXTINF:-1 tvg-id="Zoom" tvg-name="Zoom" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/Zoom.co.png" group-title="Music",Zoom
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=121
 #EXTINF:-1 tvg-id="B4U_Music" tvg-name="B4U Music" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/B4UMusic.in.png" group-title="Music",B4U Music
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=153
@@ -93,7 +93,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=133809
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=29702
 #EXTINF:-1 tvg-id="India_News" tvg-name="India News" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/IndiaNews.in.png" group-title="News",India News
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=33324
-#EXTINF:-1 tvg-id="News24" tvg-name="News24" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-849-j5m9tmf4-v1/imageContent-849-j5m9tmf4-m1.png" group-title="News",News24
+#EXTINF:-1 tvg-id="News24" tvg-name="News24" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/News24.au.png" group-title="News",News24
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134334
 #EXTINF:-1 tvg-id="Sudarshan_News" tvg-name="Sudarshan News" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/SudarshanNews.in.png" group-title="News",Sudarshan News
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132845
@@ -101,13 +101,13 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132845
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=29208
 #EXTINF:-1 tvg-id="CNN_News18" tvg-name="CNN News18" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CNNNews18.in.png" group-title="News",CNN News18
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=28125
-#EXTINF:-1 tvg-id="WION" tvg-name="WION" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9000-j7rkz0m0-v1/imageContent-9000-j7rkz0m0-m1.png" group-title="News",WION
+#EXTINF:-1 tvg-id="WION" tvg-name="WION" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/WION.in.png" group-title="News",WION
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=85499
 #EXTINF:-1 tvg-id="Mirror_Now" tvg-name="Mirror Now" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/MirrorNow.in.png" group-title="News",Mirror Now
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=48011
 #EXTINF:-1 tvg-id="ET_Now" tvg-name="ET Now" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ETNow.in.png" group-title="Business",ET Now
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=167
-#EXTINF:-1 tvg-id="CNBC_Awaaz" tvg-name="CNBC Awaaz" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/CNBCAwaaz_BoxCover_eed97660-4182-4617-ae72-9836d2772b83.png" group-title="Business",CNBC Awaaz
+#EXTINF:-1 tvg-id="CNBC_Awaaz" tvg-name="CNBC Awaaz" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CNBCAwaaz.in.png" group-title="Business",CNBC Awaaz
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=86147
 #EXTINF:-1 tvg-id="Discovery_English" tvg-name="Discovery English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11399-j9jqao3k-v1/imageContent-11399-j9jqao3k-m1.jpg" group-title="Infotainment",Discovery English
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=57776
@@ -127,7 +127,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=40478
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=177
 #EXTINF:-1 tvg-id="Investigation_Discovery_Hindi" tvg-name="Investigation Discovery Hindi" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/InvestigationDiscoveryHD_BoxCover_88980cbb-856f-4020-8f68-ffe756718682.png" group-title="Infotainment",Investigation Discovery Hindi
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134336
-#EXTINF:-1 tvg-id="DD_Sports" tvg-name="DD Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDSPTSHD_BoxCover-v1/DDSPTSHD_BoxCover.png" group-title="Sports",DD Sports
+#EXTINF:-1 tvg-id="DD_Sports" tvg-name="DD Sports" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/DDSports.in.png" group-title="Sports",DD Sports
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=74567
 #EXTINF:-1 tvg-id="Sony_Sports_1" tvg-name="Sony Sports 1" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports",Sony Sports 1
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=289
@@ -137,33 +137,33 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=290
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=128699
 #EXTINF:-1 tvg-id="FanCode_1" tvg-name="FanCode 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/TataPlayFancodeSports_BoxCover_8a1a3fb4-75bf-4a44-a98b-c63fd60d32f9.png" group-title="Sports",FanCode 1
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=78845
-#EXTINF:-1 tvg-id="Willow_Sports" tvg-name="Willow Sports" tvg-logo="" group-title="Sports",Willow Sports
+#EXTINF:-1 tvg-id="Willow_Sports" tvg-name="Willow Sports" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/WillowSports.us.png" group-title="Sports",Willow Sports
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=302
 #EXTINF:-1 tvg-id="Live_Kabaddi" tvg-name="Live Kabaddi" tvg-logo="" group-title="Sports",Live Kabaddi
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=276
-#EXTINF:-1 tvg-id="Star_Sports_2_Hindi" tvg-name="Star Sports 2 Hindi" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_BoxCover_11e56c39-77ac-47b3-9fea-344acca1394b.png" group-title="Sports",Star Sports 2 Hindi
+#EXTINF:-1 tvg-id="Star_Sports_2_Hindi" tvg-name="Star Sports 2 Hindi" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarSports2Hindi.in.png" group-title="Sports",Star Sports 2 Hindi
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132883
-#EXTINF:-1 tvg-id="Star_Sports_Select_1" tvg-name="Star Sports Select 1" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7894-j75vqc6o-v1/imageContent-7894-j75vqc6o-m1.JPG" group-title="Sports",Star Sports Select 1
+#EXTINF:-1 tvg-id="Star_Sports_Select_1" tvg-name="Star Sports Select 1" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarSportsSelect1.in.png" group-title="Sports",Star Sports Select 1
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=299
 #EXTINF:-1 tvg-id="Aastha_Prime" tvg-name="Aastha Prime" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-105-j5fl5t1k-v1/imageContent-105-j5fl5t1k-m1.png" group-title="Devotional",Aastha Prime
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132854
 #EXTINF:-1 tvg-id="Sadhna_TV" tvg-name="Sadhna TV" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/SadhnaTV.in.png" group-title="Devotional",Sadhna TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132446
-#EXTINF:-1 tvg-id="Shubh_TV" tvg-name="Shubh TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11775-j9kwuk8w-v1/imageContent-11775-j9kwuk8w-m1.png" group-title="Devotional",Shubh TV
+#EXTINF:-1 tvg-id="Shubh_TV" tvg-name="Shubh TV" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ShubhTV.in.png" group-title="Devotional",Shubh TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132421
-#EXTINF:-1 tvg-id="Bhakti_Sagar" tvg-name="Bhakti Sagar" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BKSR_BoxCover-v1/BKSR_BoxCover.png" group-title="Devotional",Bhakti Sagar
+#EXTINF:-1 tvg-id="Bhakti_Sagar" tvg-name="Bhakti Sagar" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BhaktiSagar.in.png" group-title="Devotional",Bhakti Sagar
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132440
-#EXTINF:-1 tvg-id="Total_Bhakti" tvg-name="Total Bhakti" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBHAKTI_BoxCover-v3/BBHAKTI_BoxCover.jpg" group-title="Devotional",Total Bhakti
+#EXTINF:-1 tvg-id="Total_Bhakti" tvg-name="Total Bhakti" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/TotalBhakti.in.png" group-title="Devotional",Total Bhakti
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134324
-#EXTINF:-1 tvg-id="Divya_TV" tvg-name="Divya TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11409-j9jqn914-v6/imageContent-11409-j9jqn914-m4.jpg" group-title="Devotional",Divya TV
+#EXTINF:-1 tvg-id="Divya_TV" tvg-name="Divya TV" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/DiyaTV.us.png" group-title="Devotional",Divya TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=33135
 #EXTINF:-1 tvg-id="Vedic_TV" tvg-name="Vedic TV" tvg-logo="" group-title="Devotional",Vedic TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132857
 #EXTINF:-1 tvg-id="Om_Shanti_TV" tvg-name="Om Shanti TV" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ThanthiTV_BoxCover_43c894ec-2a94-49f6-b8b2-3cfcd635b217.png" group-title="Devotional",Om Shanti TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132466
-#EXTINF:-1 tvg-id="Ishwar_Bhakti_TV" tvg-name="Ishwar Bhakti TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12197-j9q3ezww-v1/imageContent-12197-j9q3ezww-m1.jpg" group-title="Devotional",Ishwar Bhakti TV
+#EXTINF:-1 tvg-id="Ishwar_Bhakti_TV" tvg-name="Ishwar Bhakti TV" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/IshwarBhaktiTV.in.png" group-title="Devotional",Ishwar Bhakti TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132441
-#EXTINF:-1 tvg-id="Star_Movies" tvg-name="Star Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png" group-title="Movies",Star Movies
+#EXTINF:-1 tvg-id="Star_Movies" tvg-name="Star Movies" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarMovies.in.png" group-title="Movies",Star Movies
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=198
 #EXTINF:-1 tvg-id="Star_Movies_Select" tvg-name="Star Movies Select" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarMoviesSelect.in.png" group-title="Movies",Star Movies Select
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=199
@@ -177,7 +177,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=128485
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=189
 #EXTINF:-1 tvg-id="Dangal" tvg-name="Dangal" tvg-logo="" group-title="Movies",Dangal
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=86148
-#EXTINF:-1 tvg-id="Shemaroo_Bollywood" tvg-name="Shemaroo Bollywood" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52945-ka1wdss8-v2/imageContent-52945-ka1wdss8-m2.png" group-title="Movies",Shemaroo Bollywood
+#EXTINF:-1 tvg-id="Shemaroo_Bollywood" tvg-name="Shemaroo Bollywood" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ShemarooBollywood.us.png" group-title="Movies",Shemaroo Bollywood
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132800
 #EXTINF:-1 tvg-id="Zee_Bollywood" tvg-name="Zee Bollywood" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ZeeBollywood.in.png" group-title="Movies",Zee Bollywood
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=210
@@ -185,7 +185,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=210
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=207
 #EXTINF:-1 tvg-id="Zee_Classic" tvg-name="Zee Classic" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ZeeClassic.in.png" group-title="Movies",Zee Classic
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=43379
-#EXTINF:-1 tvg-id="Colors_Cineplex_Superhits" tvg-name="Colors Cineplex Superhits" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="Movies",Colors Cineplex Superhits
+#EXTINF:-1 tvg-id="Colors_Cineplex_Superhits" tvg-name="Colors Cineplex Superhits" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ColorsCineplexSuperhits.in.png" group-title="Movies",Colors Cineplex Superhits
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=62413
 #EXTINF:-1 tvg-id="Bollywood_HD" tvg-name="Bollywood HD" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BollywoodHD.ro.png" group-title="Movies",Bollywood HD
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=123915
@@ -193,21 +193,21 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=123915
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=201
 #EXTINF:-1 tvg-id="Star_Utsav_Movies" tvg-name="Star Utsav Movies" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarUtsavMovies.in.png" group-title="Movies",Star Utsav Movies
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=133029
-#EXTINF:-1 tvg-id="Disney_Channel" tvg-name="Disney Channel" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="Disney_Channel" tvg-name="Disney Channel" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/DisneyChannel.be.svg" group-title="Kids",Disney Channel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=249
-#EXTINF:-1 tvg-id="Disney_Junior" tvg-name="Disney Junior" tvg-logo="" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-id="Disney_Junior" tvg-name="Disney Junior" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/DisneyJunior.bg.svg" group-title="Kids",Disney Junior
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=250
-#EXTINF:-1 tvg-id="Nick_Jr" tvg-name="Nick Jr" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NickJr_BoxCover_cbfaaa3d-c65d-485e-ad82-3f8f951fe2c1.png" group-title="Kids",Nick Jr
+#EXTINF:-1 tvg-id="Nick_Jr" tvg-name="Nick Jr" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/NickJr.au.png" group-title="Kids",Nick Jr
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=252
 #EXTINF:-1 tvg-id="Baby_TV" tvg-name="Baby TV" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BabyTV.uk.png" group-title="Kids",Baby TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=242
-#EXTINF:-1 tvg-id="MTV_Plus" tvg-name="MTV Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="Music",MTV Plus
+#EXTINF:-1 tvg-id="MTV_Plus" tvg-name="MTV Plus" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/TVPlus.ge.png" group-title="Music",MTV Plus
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=174
 #EXTINF:-1 tvg-id="9X_Jalwa" tvg-name="9X Jalwa" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/9XJalwa.in.png" group-title="Music",9X Jalwa
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=142
 #EXTINF:-1 tvg-id="Music_India" tvg-name="Music India" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/MusicIndia.in.png" group-title="Music",Music India
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=175
-#EXTINF:-1 tvg-id="YRF_Music" tvg-name="YRF Music" tvg-logo="" group-title="Music",YRF Music
+#EXTINF:-1 tvg-id="YRF_Music" tvg-name="YRF Music" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/YRFMusic.in.png" group-title="Music",YRF Music
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132375
 #EXTINF:-1 tvg-id="Comedy_Tadka" tvg-name="Comedy Tadka" tvg-logo="" group-title="Entertainment",Comedy Tadka
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=86150
@@ -215,15 +215,15 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=86150
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132186
 #EXTINF:-1 tvg-id="Food_Food" tvg-name="Food Food" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/FoodFood.in.png" group-title="Lifestyle",Food Food
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=169
-#EXTINF:-1 tvg-id="Epic" tvg-name="Epic" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/EPIC_BoxCover_dae60558-1bb1-4a66-be48-77047cfb6f5b.png" group-title="Infotainment",Epic
+#EXTINF:-1 tvg-id="Epic" tvg-name="Epic" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/Epic.ru.png" group-title="Infotainment",Epic
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132420
-#EXTINF:-1 tvg-id="Big_Magic" tvg-name="Big Magic" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/BigMagic_BoxCover_ef798b4c-eb5a-4181-8f6e-545078777c74.png" group-title="Entertainment",Big Magic
+#EXTINF:-1 tvg-id="Big_Magic" tvg-name="Big Magic" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BigMagic.in.png" group-title="Entertainment",Big Magic
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132514
 #EXTINF:-1 tvg-id="Colors_Infinity" tvg-name="Colors Infinity" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ColorsInfinity.in.png" group-title="Entertainment",Colors Infinity
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=157
 #EXTINF:-1 tvg-id="Discovery_Science_Hindi" tvg-name="Discovery Science Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Infotainment",Discovery Science Hindi
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134318
-#EXTINF:-1 tvg-id="First_India_News" tvg-name="First India News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25048-jhir0kko-v1/imageContent-25048-jhir0kko-m1.png" group-title="News",First India News
+#EXTINF:-1 tvg-id="First_India_News" tvg-name="First India News" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/FirstIndiaNews.in.png" group-title="News",First India News
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=123916
 #EXTINF:-1 tvg-id="Bharat_Samachar" tvg-name="Bharat Samachar" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BharatSamachar.in.png" group-title="News",Bharat Samachar
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=36125
