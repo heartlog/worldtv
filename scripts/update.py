@@ -12,10 +12,10 @@ LOGO_DIR = ROOT / "logo"
 
 # GitHub Actions protection limits.
 # The script will stop NEW logo downloads after either limit is reached.
-MAX_NEW_LOGOS_PER_RUN = 200
+MAX_NEW_LOGOS_PER_RUN = 110
 MAX_RUNTIME_SECONDS = 240          # Leave some margin before the 5-minute job timeout.
 MAX_LOGO_RETRIES = 2
-DELAY_BETWEEN_NEW_DOWNLOADS = 0.35
+DELAY_BETWEEN_NEW_DOWNLOADS = 0.40
 
 PLAYLIST_URLS = {
     "main.m3u": "https://raw.githubusercontent.com/amin8453/playlist/main/main.m3u",
