@@ -79,6 +79,15 @@ def main():
     lines = (ROOT/"main.m3u").read_text(encoding="utf-8", errors="replace").splitlines()
     out, matched, downloaded, reused, missing, failed = [], 0, 0, 0, 0, 0
 
+    # Always write a valid M3U header. The upstream file should contain
+    # #EXTM3U, but normalize it in case the source changes.
+    while lines and not lines[0].strip():
+        lines.pop(0)
+    if lines and lines[0].strip().lower() in ("extm3u", "#extm3u"):
+        lines[0] = "#EXTM3U"
+    elif not lines or not lines[0].startswith("#EXTM3U"):
+        lines.insert(0, "#EXTM3U")
+
     for line in lines:
         if not line.startswith("#EXTINF:"):
             out.append(line); continue
@@ -139,7 +148,7 @@ def main():
 
         out.append(line)
 
-    (ROOT/"main.m3u").write_text("\\n".join(out)+"\\n", encoding="utf-8")
+    (ROOT/"main.m3u").write_text("\n".join(out) + "\n", encoding="utf-8")
     print("\\nRESULT")
     print("Matched:", matched)
     print("Downloaded:", downloaded)
