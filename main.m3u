@@ -6296,7 +6296,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125560
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125561
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERMAN",DE: Sachsen fernsehen
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125562
-#EXTINF:-1 tvg-id="sat1.de" tvg-logo="" group-title="GERMAN",DE: Sat 1
+#EXTINF:-1 tvg-id="sat1.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/SAT1.de.png" group-title="GERMAN",DE: Sat 1
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125725
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/SAT1Gold.de.png" group-title="GERMAN",DE: Sat 1 Gold
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125726
@@ -6448,7 +6448,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125557
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125618
 #EXTINF:-1 tvg-id="skysport10.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/SkySport10.de.png" group-title="GERMAN ➾ SKY SPORTS",DE: Sky Sport 10
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125627
-#EXTINF:-1 tvg-id="skysport2.de" tvg-logo="" group-title="GERMAN ➾ SKY SPORTS",DE: Sky Sport 2
+#EXTINF:-1 tvg-id="skysport2.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/SkySport2.de.png" group-title="GERMAN ➾ SKY SPORTS",DE: Sky Sport 2
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125619
 #EXTINF:-1 tvg-id="skysport3.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/SkySport3.de.png" group-title="GERMAN ➾ SKY SPORTS",DE: Sky Sport 3
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125620
@@ -6596,7 +6596,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125663
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125664
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERMAN ➾ KIDS",DE: Cartoonito
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125665
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="" group-title="GERMAN ➾ KIDS",DE: Disney Channel
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/DisneyChannel.de.svg" group-title="GERMAN ➾ KIDS",DE: Disney Channel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125666
 #EXTINF:-1 tvg-id="disneyjunior.de" tvg-logo="" group-title="GERMAN ➾ KIDS",DE: Disney Junior
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125667
@@ -7214,7 +7214,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=130128
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=130129
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR: TMB
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=130130
-#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="" group-title="TURKEY",TR: TRT 1
+#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/TRT1.tr.png" group-title="TURKEY",TR: TRT 1
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=130133
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR: TRT 2
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=130134
@@ -7230,7 +7230,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=130138
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=130139
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR: TRT Diyanet Cocuk
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=130140
-#EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="" group-title="TURKEY",TR: TRT Haber
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/TRTHaber.tr.png" group-title="TURKEY",TR: TRT Haber
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=130142
 #EXTINF:-1 tvg-id="trtmuzik.tr" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/TRTMuzik.tr.png" group-title="TURKEY",TR: TRT Muzik
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=130143
