@@ -233,7 +233,7 @@ def logo_url_for(channel, logos_by_channel):
 
 
 def process_playlist(filename, source_url, channels_by_id, channels_by_name, logos_by_channel):
-    global cached_logos, no_match
+    global cached_logos, no_match, limit_reached
 
     print(f"\nSyncing {filename}...")
 
