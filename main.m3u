@@ -3754,7 +3754,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=91153
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=475
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UNITED KINGDOM",UK: Ideal World
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=91055
-#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-logo="" group-title="UNITED KINGDOM",UK: Investigation Discovery
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/InvestigationDiscovery.uk.png" group-title="UNITED KINGDOM",UK: Investigation Discovery
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=4227
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UNITED KINGDOM",UK: Kerrang!
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=91060
@@ -4016,11 +4016,11 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126223
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46818
 #EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CartoonNetwork.us.png" group-title="USA ➾ Kids",US: Cartoon Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126224
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-logo="" group-title="USA ➾ Kids",US: Disney Channel
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/DisneyChannel.us.svg" group-title="USA ➾ Kids",US: Disney Channel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46821
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="" group-title="USA ➾ Kids",US: Disney Junior
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/DisneyJunior.us.svg" group-title="USA ➾ Kids",US: Disney Junior
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126226
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-logo="" group-title="USA ➾ Kids",US: Disney XD
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/DisneyXD.us.svg" group-title="USA ➾ Kids",US: Disney XD
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46822
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Kids",US: Nick Jr
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126227
@@ -4044,7 +4044,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126085
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126087
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: Bally Sports Arizona Alternate
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126088
-#EXTINF:-1 tvg-id="foxsportsarizona.us" tvg-logo="" group-title="USA ➾ Sports",US: Bally Sports Arizona Plus
+#EXTINF:-1 tvg-id="foxsportsarizona.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BallySportsArizonaPlus.us.png" group-title="USA ➾ Sports",US: Bally Sports Arizona Plus
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126089
 #EXTINF:-1 tvg-id="foxsportsdetroit.us" tvg-logo="" group-title="USA ➾ Sports",US: Bally Sports Detroit
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126090
@@ -4088,7 +4088,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126107
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132664
 #EXTINF:-1 tvg-id="ballysportsoklahoma.us" tvg-logo="" group-title="USA ➾ Sports",US: Bally Sports Oklahoma
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126108
-#EXTINF:-1 tvg-id="foxsportssandiego.us" tvg-logo="" group-title="USA ➾ Sports",US: Bally Sports San Diego
+#EXTINF:-1 tvg-id="foxsportssandiego.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BallySportsSanDiego.us.png" group-title="USA ➾ Sports",US: Bally Sports San Diego
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126109
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BallySportsSanDiegoPlus.us.png" group-title="USA ➾ Sports",US: Bally Sports San Diego Plus
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126110
@@ -4118,19 +4118,19 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126120
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126121
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: Bally Sports Wisconsin Plus
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126122
-#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-logo="" group-title="USA ➾ Sports",US: Big Ten Network
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BigTenNetwork.us.png" group-title="USA ➾ Sports",US: Big Ten Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126134
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: CBS Sports Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=36094
 #EXTINF:-1 tvg-id="espn.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ESPN.us.png" group-title="USA ➾ Sports",US: ESPN 1
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46827
-#EXTINF:-1 tvg-id="espn2.us" tvg-logo="" group-title="USA ➾ Sports",US: ESPN 2
+#EXTINF:-1 tvg-id="espn2.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ESPN2.us.png" group-title="USA ➾ Sports",US: ESPN 2
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46828
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: ESPN 3
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126137
 #EXTINF:-1 tvg-id="espnnews.us" tvg-logo="" group-title="USA ➾ Sports",US: ESPN News
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126138
-#EXTINF:-1 tvg-id="espnu.us" tvg-logo="" group-title="USA ➾ Sports",US: ESPNU
+#EXTINF:-1 tvg-id="espnu.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ESPNU.us.png" group-title="USA ➾ Sports",US: ESPNU
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126140
 #EXTINF:-1 tvg-id="elevensports.us" tvg-logo="" group-title="USA ➾ Sports",US: Eleven Sports
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126135
@@ -4142,11 +4142,11 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126144
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126145
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/FoxSports1.us.png" group-title="USA ➾ Sports",US: FS1
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126146
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-logo="" group-title="USA ➾ Sports",US: FS2
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/FoxSports2.us.png" group-title="USA ➾ Sports",US: FS2
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126147
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: Fight Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132771
-#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-logo="" group-title="USA ➾ Sports",US: Fox Soccer Plus
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/FoxSoccerPlus.us.png" group-title="USA ➾ Sports",US: Fox Soccer Plus
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126143
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: Fox Sports Detroit
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132660
@@ -4160,7 +4160,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126149
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126150
 #EXTINF:-1 tvg-id="thelonghonrnetwork.us" tvg-logo="" group-title="USA ➾ Sports",US: Longhorn Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126151
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-logo="" group-title="USA ➾ Sports",US: MLB Network
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/MLBNetwork.us.png" group-title="USA ➾ Sports",US: MLB Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126153
 #EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-logo="" group-title="USA ➾ Sports",US: MSG
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126155
@@ -4168,11 +4168,11 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126155
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126156
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: MSG+
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126157
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: Marquee Sports Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/MarqueeSportsNetwork.us.png" group-title="USA ➾ Sports",US: Marquee Sports Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132658
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: Motortrend
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126154
-#EXTINF:-1 tvg-id="nbatv.us" tvg-logo="" group-title="USA ➾ Sports",US: NBA TV
+#EXTINF:-1 tvg-id="nbatv.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/NBATV.us.png" group-title="USA ➾ Sports",US: NBA TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126159
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/NBCSportsBayArea.us.png" group-title="USA ➾ Sports",US: NBC Sports Bay Area
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126160
@@ -4182,11 +4182,11 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126161
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126162
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/NBCSportsChicago.us.png" group-title="USA ➾ Sports",US: NBC Sports Chicago
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126163
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: NBC Sports Chicago Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/NBCSportsChicagoPlus.us.png" group-title="USA ➾ Sports",US: NBC Sports Chicago Plus
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126164
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: NBC Sports Northwest
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/NBCSportsNorthwest.us.png" group-title="USA ➾ Sports",US: NBC Sports Northwest
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126166
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: NBC Sports Philadelphia
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/NBCSportsPhiladelphia.us.png" group-title="USA ➾ Sports",US: NBC Sports Philadelphia
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126167
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/NBCSportsPhiladelphiaPlus.us.png" group-title="USA ➾ Sports",US: NBC Sports Philadelphia Plus
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126168
@@ -4200,7 +4200,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126171
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126172
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: NFL RedZone
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126174
-#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-logo="" group-title="USA ➾ Sports",US: NHL Network
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/NHLNetwork.us.png" group-title="USA ➾ Sports",US: NHL Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126175
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Sports",US: PAC 12 Insider
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126178
@@ -4254,7 +4254,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126128
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126129
 #EXTINF:-1 tvg-id="beinsports8.us" tvg-logo="" group-title="USA ➾ Sports",US: beIN Sports 8
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126130
-#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-logo="" group-title="USA ➾ Sports",US: beIN Sports Xtra 1
+#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/beINSPORTSXTRA.us.png" group-title="USA ➾ Sports",US: beIN Sports Xtra 1
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126133
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Motor Sports",US: MavTV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126235
@@ -4268,11 +4268,11 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126236
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132685
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Music",US: CMT Music
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132686
-#EXTINF:-1 tvg-id="cmctv.us" tvg-logo="" group-title="USA ➾ Music",US: California Music Channel
+#EXTINF:-1 tvg-id="cmctv.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CaliforniaMusicChannel.us.png" group-title="USA ➾ Music",US: California Music Channel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126237
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Music",US: Club MTV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126238
-#EXTINF:-1 tvg-id="mtv.us" tvg-logo="" group-title="USA ➾ Music",US: MTV
+#EXTINF:-1 tvg-id="mtv.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/MTV.us.png" group-title="USA ➾ Music",US: MTV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126239
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Music",US: MTV 00s
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126240
@@ -4284,17 +4284,17 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126243
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126244
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Music",US: MTV Live
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126246
-#EXTINF:-1 tvg-id="mtvlive.us" tvg-logo="" group-title="USA ➾ Music",US: MTV Live USA
+#EXTINF:-1 tvg-id="mtvlive.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/MTVLive.us.png" group-title="USA ➾ Music",US: MTV Live USA
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126247
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Music",US: MTV Music
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126248
-#EXTINF:-1 tvg-id="mtvu.us" tvg-logo="" group-title="USA ➾ Music",US: MTV U
+#EXTINF:-1 tvg-id="mtvu.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/MTVU.us.png" group-title="USA ➾ Music",US: MTV U
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126249
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Music",US: Music Choice Alternative
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/MusicChoiceAlternative.us.png" group-title="USA ➾ Music",US: Music Choice Alternative
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126252
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Music",US: Music Choice Hit List
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126256
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Music",US: Music Choice Indie
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/MusicChoiceIndie.us.png" group-title="USA ➾ Music",US: Music Choice Indie
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126257
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Music",US: Popstar TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126279
@@ -4534,15 +4534,15 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126914
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132748
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BlackNewsChannel.us.png" group-title="USA ➾ News",US: Black News Channel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126917
-#EXTINF:-1 tvg-id="bloombergtv.us" tvg-logo="" group-title="USA ➾ News",US: Bloomberg TV
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BloombergTV.us.png" group-title="USA ➾ News",US: Bloomberg TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46797
-#EXTINF:-1 tvg-id="cspan.us" tvg-logo="" group-title="USA ➾ News",US: C-Span 1
+#EXTINF:-1 tvg-id="cspan.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CSPAN.us.png" group-title="USA ➾ News",US: C-Span 1
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46832
-#EXTINF:-1 tvg-id="cspan2.us" tvg-logo="" group-title="USA ➾ News",US: C-Span 2
+#EXTINF:-1 tvg-id="cspan2.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CSPAN2.us.png" group-title="USA ➾ News",US: C-Span 2
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126919
-#EXTINF:-1 tvg-id="cspan3.us" tvg-logo="" group-title="USA ➾ News",US: C-Span 3
+#EXTINF:-1 tvg-id="cspan3.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CSPAN3.us.png" group-title="USA ➾ News",US: C-Span 3
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126920
-#EXTINF:-1 tvg-id="cbnnews.us" tvg-logo="" group-title="USA ➾ News",US: CBN News
+#EXTINF:-1 tvg-id="cbnnews.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CBNNews.us.png" group-title="USA ➾ News",US: CBN News
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126921
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ News",US: CBS 29 Bakersfield California (KBAK)
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132749
@@ -4800,17 +4800,17 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132758
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127023
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ News",US: CBS Youngstown Ohio WKBN TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132569
-#EXTINF:-1 tvg-id="cnbc.us" tvg-logo="" group-title="USA ➾ News",US: CNBC
+#EXTINF:-1 tvg-id="cnbc.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CNBC.us.svg" group-title="USA ➾ News",US: CNBC
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46798
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ News",US: CNBC 17 Victoria Texas KMOL TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127026
 #EXTINF:-1 tvg-id="cnbcworld.us" tvg-logo="" group-title="USA ➾ News",US: CNBC World
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127028
-#EXTINF:-1 tvg-id="cnn.us" tvg-logo="" group-title="USA ➾ News",US: CNN International FHD
+#EXTINF:-1 tvg-id="cnn.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CNN.us.png" group-title="USA ➾ News",US: CNN International FHD
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=50
-#EXTINF:-1 tvg-id="cnn.us" tvg-logo="" group-title="USA ➾ News",US: CNN USA FHD
+#EXTINF:-1 tvg-id="cnn.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CNN.us.png" group-title="USA ➾ News",US: CNN USA FHD
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127030
-#EXTINF:-1 tvg-id="cnn.us" tvg-logo="" group-title="USA ➾ News",US: CNN USA FHD.
+#EXTINF:-1 tvg-id="cnn.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CNN.us.png" group-title="USA ➾ News",US: CNN USA FHD.
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132224
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ News",US: Cheddar News
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127024
@@ -4894,7 +4894,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=128459
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132630
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ News",US: Fox Lafayette Louisiana KADN TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132582
-#EXTINF:-1 tvg-id="foxlife.us" tvg-logo="" group-title="USA ➾ News",US: Fox Life
+#EXTINF:-1 tvg-id="foxlife.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/FoxLife.us.png" group-title="USA ➾ News",US: Fox Life
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127082
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ News",US: Fox Lincoln Nebraska KFXL TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132613
@@ -4998,7 +4998,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127119
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132565
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ News",US: Free Speech TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127122
-#EXTINF:-1 tvg-id="hln.us" tvg-logo="" group-title="USA ➾ News",US: HLN
+#EXTINF:-1 tvg-id="hln.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/HLN.us.png" group-title="USA ➾ News",US: HLN
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127124
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ News",US: Jacksonville Florida WJXT
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127126
@@ -5332,7 +5332,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127296
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132621
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ News",US: Omaha Nebraska Council Bluffs KPTM TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127297
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ News",US: One America News Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/OneAmericaNewsNetwork.us.png" group-title="USA ➾ News",US: One America News Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127298
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ News",US: Real Americas Voice
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127299
@@ -5350,7 +5350,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127303
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126844
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ News",US: WYMT-TV (Mountain News)
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132757
-#EXTINF:-1 tvg-id="5starmax.us" tvg-logo="" group-title="USA ➾ Movie",US: 5 Star max
+#EXTINF:-1 tvg-id="5starmax.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/5StarMax.us.png" group-title="USA ➾ Movie",US: 5 Star max
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126717
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: ABC Spark
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126718
@@ -5358,13 +5358,13 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126718
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46795
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: ActionMax
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126719
-#EXTINF:-1 tvg-id="bbcamerica.us" tvg-logo="" group-title="USA ➾ Movie",US: BBC America
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BBCAmerica.us.svg" group-title="USA ➾ Movie",US: BBC America
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126720
-#EXTINF:-1 tvg-id="bravo.us" tvg-logo="" group-title="USA ➾ Movie",US: Bravo HD
+#EXTINF:-1 tvg-id="bravo.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/Bravo.us.png" group-title="USA ➾ Movie",US: Bravo HD
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46819
 #EXTINF:-1 tvg-id="buzzertv.us" tvg-logo="" group-title="USA ➾ Movie",US: Buzzr
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126722
-#EXTINF:-1 tvg-id="cmt.us" tvg-logo="" group-title="USA ➾ Movie",US: CMT
+#EXTINF:-1 tvg-id="cmt.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CMT.us.png" group-title="USA ➾ Movie",US: CMT
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126724
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: Cine Life
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126723
@@ -5390,9 +5390,9 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132676
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132674
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: Classic Movies
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132678
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-logo="" group-title="USA ➾ Movie",US: Comedy Central
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ComedyCentral.us.png" group-title="USA ➾ Movie",US: Comedy Central
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46820
-#EXTINF:-1 tvg-id="comet.us" tvg-logo="" group-title="USA ➾ Movie",US: Comet
+#EXTINF:-1 tvg-id="comet.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/Comet.us.png" group-title="USA ➾ Movie",US: Comet
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126725
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: Dove
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126726
@@ -5404,43 +5404,43 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126728
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126729
 #EXTINF:-1 tvg-id="epixhits.us" tvg-logo="" group-title="USA ➾ Movie",US: Epix Hits
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126730
-#EXTINF:-1 tvg-id="fx.us" tvg-logo="" group-title="USA ➾ Movie",US: FX
+#EXTINF:-1 tvg-id="fx.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/FX.us.png" group-title="USA ➾ Movie",US: FX
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126733
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: FX Movie Channel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126734
-#EXTINF:-1 tvg-id="fxmoviechannel.us" tvg-logo="" group-title="USA ➾ Movie",US: FXM Retro
+#EXTINF:-1 tvg-id="fxmoviechannel.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/FXMovieChannel.us.png" group-title="USA ➾ Movie",US: FXM Retro
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126735
-#EXTINF:-1 tvg-id="fxx.us" tvg-logo="" group-title="USA ➾ Movie",US: FXX
+#EXTINF:-1 tvg-id="fxx.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/FXX.us.png" group-title="USA ➾ Movie",US: FXX
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126736
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: GAC Family
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126737
 #EXTINF:-1 tvg-id="grit.us" tvg-logo="" group-title="USA ➾ Movie",US: Grit
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126739
-#EXTINF:-1 tvg-id="hbo.us" tvg-logo="" group-title="USA ➾ Movie",US: HBO
+#EXTINF:-1 tvg-id="hbo.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/HBO.us.png" group-title="USA ➾ Movie",US: HBO
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46801
-#EXTINF:-1 tvg-id="hbo2.us" tvg-logo="" group-title="USA ➾ Movie",US: HBO 2
+#EXTINF:-1 tvg-id="hbo2.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/HBO2.us.png" group-title="USA ➾ Movie",US: HBO 2
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126742
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: HBO 2 East
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132677
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-logo="" group-title="USA ➾ Movie",US: HBO Comedy
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/HBOComedy.us.svg" group-title="USA ➾ Movie",US: HBO Comedy
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126743
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-logo="" group-title="USA ➾ Movie",US: HBO Family
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/HBOFamily.us.png" group-title="USA ➾ Movie",US: HBO Family
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46824
 #EXTINF:-1 tvg-id="hbosignature.us" tvg-logo="" group-title="USA ➾ Movie",US: HBO Signature
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126744
-#EXTINF:-1 tvg-id="hbozone.us" tvg-logo="" group-title="USA ➾ Movie",US: HBO Zone
+#EXTINF:-1 tvg-id="hbozone.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/HBOZone.us.png" group-title="USA ➾ Movie",US: HBO Zone
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46823
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: HDNet Movies
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126745
 #EXTINF:-1 tvg-id="hallmark.us" tvg-logo="" group-title="USA ➾ Movie",US: Hallmark Channel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46800
-#EXTINF:-1 tvg-id="hallmarkdrama.us" tvg-logo="" group-title="USA ➾ Movie",US: Hallmark Drama
+#EXTINF:-1 tvg-id="hallmarkdrama.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/HallmarkDrama.us.svg" group-title="USA ➾ Movie",US: Hallmark Drama
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126740
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: Hallmark Family
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132774
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/HallmarkMoviesMore.us.png" group-title="USA ➾ Movie",US: Hallmark Movies & More
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132776
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-logo="" group-title="USA ➾ Movie",US: Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/HallmarkMoviesMysteries.us.png" group-title="USA ➾ Movie",US: Hallmark Movies & Mysteries
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126741
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: Hallmark en español
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132777
@@ -5448,13 +5448,13 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132777
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132671
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: IFC
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126746
-#EXTINF:-1 tvg-id="insp.us" tvg-logo="" group-title="USA ➾ Movie",US: INSP
+#EXTINF:-1 tvg-id="insp.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/INSP.us.png" group-title="USA ➾ Movie",US: INSP
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126747
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: Laff
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126748
 #EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-logo="" group-title="USA ➾ Movie",US: Lifetime Movies
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126749
-#EXTINF:-1 tvg-id="logo.us" tvg-logo="" group-title="USA ➾ Movie",US: Logo
+#EXTINF:-1 tvg-id="logo.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/Logo.us.png" group-title="USA ➾ Movie",US: Logo
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126750
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: MTV 2
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126754
@@ -5474,41 +5474,41 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132778
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126758
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: Shorts TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126759
-#EXTINF:-1 tvg-id="showtime.us" tvg-logo="" group-title="USA ➾ Movie",US: Showtime
+#EXTINF:-1 tvg-id="showtime.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/Showtime.us.png" group-title="USA ➾ Movie",US: Showtime
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126760
-#EXTINF:-1 tvg-id="showtime2.us" tvg-logo="" group-title="USA ➾ Movie",US: Showtime 2
+#EXTINF:-1 tvg-id="showtime2.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/Showtime2.us.png" group-title="USA ➾ Movie",US: Showtime 2
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46830
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-logo="" group-title="USA ➾ Movie",US: Showtime Extreme
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ShowtimeExtreme.us.png" group-title="USA ➾ Movie",US: Showtime Extreme
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46829
-#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-logo="" group-title="USA ➾ Movie",US: Showtime Family Zone
+#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ShowtimeFamilyZone.us.png" group-title="USA ➾ Movie",US: Showtime Family Zone
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126761
-#EXTINF:-1 tvg-id="showtimenext.us" tvg-logo="" group-title="USA ➾ Movie",US: Showtime Next
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ShowtimeNext.us.png" group-title="USA ➾ Movie",US: Showtime Next
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126762
-#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-logo="" group-title="USA ➾ Movie",US: Showtime Showcase
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ShowtimeShowcase.us.png" group-title="USA ➾ Movie",US: Showtime Showcase
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46807
-#EXTINF:-1 tvg-id="showtimewomen.us" tvg-logo="" group-title="USA ➾ Movie",US: Showtime Women
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ShowtimeWomen.us.png" group-title="USA ➾ Movie",US: Showtime Women
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46817
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: Sony Movies
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126763
 #EXTINF:-1 tvg-id="starzwest.us" tvg-logo="" group-title="USA ➾ Movie",US: Starz
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126764
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-logo="" group-title="USA ➾ Movie",US: Starz Cinema
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarzCinema.us.png" group-title="USA ➾ Movie",US: Starz Cinema
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126765
-#EXTINF:-1 tvg-id="starzcomedy.us" tvg-logo="" group-title="USA ➾ Movie",US: Starz Comedy
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarzComedy.us.png" group-title="USA ➾ Movie",US: Starz Comedy
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126766
-#EXTINF:-1 tvg-id="starz.us" tvg-logo="" group-title="USA ➾ Movie",US: Starz East
+#EXTINF:-1 tvg-id="starz.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/Starz.us.png" group-title="USA ➾ Movie",US: Starz East
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126767
-#EXTINF:-1 tvg-id="starzedge.us" tvg-logo="" group-title="USA ➾ Movie",US: Starz Edge
+#EXTINF:-1 tvg-id="starzedge.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarzEdge.us.png" group-title="USA ➾ Movie",US: Starz Edge
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126768
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: Starz Encore
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126769
-#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-logo="" group-title="USA ➾ Movie",US: Starz Encore Action
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarzEncoreAction.us.png" group-title="USA ➾ Movie",US: Starz Encore Action
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126770
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarzEncoreBlack.us.png" group-title="USA ➾ Movie",US: Starz Encore Black
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126771
-#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-logo="" group-title="USA ➾ Movie",US: Starz Encore Classic
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarzEncoreClassic.us.png" group-title="USA ➾ Movie",US: Starz Encore Classic
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126772
-#EXTINF:-1 tvg-id="starzencore.us" tvg-logo="" group-title="USA ➾ Movie",US: Starz Encore East
+#EXTINF:-1 tvg-id="starzencore.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarzEncore.us.png" group-title="USA ➾ Movie",US: Starz Encore East
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126773
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarzEncoreFamily.us.png" group-title="USA ➾ Movie",US: Starz Encore Family
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126774
@@ -5518,7 +5518,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126775
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126776
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: Starz In Black
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126777
-#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-logo="" group-title="USA ➾ Movie",US: Starz Kids & Family
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/StarzKidsFamily.us.png" group-title="USA ➾ Movie",US: Starz Kids & Family
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126779
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: Starz West
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132775
@@ -5572,9 +5572,9 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126805
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126804
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Movie",US: USA Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126807
-#EXTINF:-1 tvg-id="wetv.us" tvg-logo="" group-title="USA ➾ Movie",US: We TV
+#EXTINF:-1 tvg-id="wetv.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/WeTV.us.png" group-title="USA ➾ Movie",US: We TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126808
-#EXTINF:-1 tvg-id="cookingchannel.us" tvg-logo="" group-title="USA ➾ Food",US: Cooking Channel
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CookingChannel.us.png" group-title="USA ➾ Food",US: Cooking Channel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126218
 #EXTINF:-1 tvg-id="foodnetwork.us" tvg-logo="" group-title="USA ➾ Food",US: Food Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46812
@@ -5590,7 +5590,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126649
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126651
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ LifeStyle",US: AWE
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126653
-#EXTINF:-1 tvg-id="axstv.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: AXS TV
+#EXTINF:-1 tvg-id="axstv.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/AXSTV.us.png" group-title="USA ➾ LifeStyle",US: AXS TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126654
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/AccuWeatherNetwork.us.png" group-title="USA ➾ LifeStyle",US: AccuWeather Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126650
@@ -5600,13 +5600,13 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132792
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126652
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ LifeStyle",US: BET Gospel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132795
-#EXTINF:-1 tvg-id="bether.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: BET Her
+#EXTINF:-1 tvg-id="bether.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BETHer.us.png" group-title="USA ➾ LifeStyle",US: BET Her
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126656
 #EXTINF:-1 tvg-id="betjams.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: BET Jams
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126657
-#EXTINF:-1 tvg-id="betsoul.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: BET Soul
+#EXTINF:-1 tvg-id="betsoul.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BETSoul.us.png" group-title="USA ➾ LifeStyle",US: BET Soul
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126658
-#EXTINF:-1 tvg-id="bet.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: Bet HD
+#EXTINF:-1 tvg-id="bet.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BET.us.png" group-title="USA ➾ LifeStyle",US: Bet HD
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46796
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BloombergQuicktake.us.png" group-title="USA ➾ LifeStyle",US: Bloomberg Quicktake
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126659
@@ -5640,7 +5640,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126672
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126673
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ LifeStyle",US: Discovery Life Channel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126674
-#EXTINF:-1 tvg-id="dogtv.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: Dog TV
+#EXTINF:-1 tvg-id="dogtv.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/DogTV.us.png" group-title="USA ➾ LifeStyle",US: Dog TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126675
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: E!
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46826
@@ -5648,7 +5648,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46826
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126679
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ LifeStyle",US: FashionTV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126676
-#EXTINF:-1 tvg-id="freeform.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: Freeform
+#EXTINF:-1 tvg-id="freeform.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/Freeform.us.png" group-title="USA ➾ LifeStyle",US: Freeform
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126677
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ LifeStyle",US: Fuse
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126678
@@ -5660,7 +5660,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126681
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126682
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ LifeStyle",US: Glewed TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126683
-#EXTINF:-1 tvg-id="hgtv.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: HGTV
+#EXTINF:-1 tvg-id="hgtv.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/HGTV.us.png" group-title="USA ➾ LifeStyle",US: HGTV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=35722
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ LifeStyle",US: HSN
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126685
@@ -5670,13 +5670,13 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126686
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132797
 #EXTINF:-1 tvg-id="ion.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: ION TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126688
-#EXTINF:-1 tvg-id="justicecentral.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: Justice Central TV
+#EXTINF:-1 tvg-id="justicecentral.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/JusticeCentralTV.us.png" group-title="USA ➾ LifeStyle",US: Justice Central TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126689
 #EXTINF:-1 tvg-id="lifetime.uk" tvg-logo="" group-title="USA ➾ LifeStyle",US: Lifetime
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126690
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ LifeStyle",US: Magnolia Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126691
-#EXTINF:-1 tvg-id="metv.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: Me TV
+#EXTINF:-1 tvg-id="metv.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/MeTV.us.png" group-title="USA ➾ LifeStyle",US: Me TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126693
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ LifeStyle",US: Oprah Winfrey Network (OWN)
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126694
@@ -5710,7 +5710,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132680
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126710
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ LifeStyle",US: TLC
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126716
-#EXTINF:-1 tvg-id="tvone.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: TV One
+#EXTINF:-1 tvg-id="tvone.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/TVOne.us.png" group-title="USA ➾ LifeStyle",US: TV One
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126715
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ LifeStyle",US: Tastemade
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126711
@@ -5718,11 +5718,11 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126711
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132796
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ LifeStyle",US: UP TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127260
-#EXTINF:-1 tvg-id="trutv.us" tvg-logo="" group-title="USA ➾ LifeStyle",US: tru TV
+#EXTINF:-1 tvg-id="trutv.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/truTV.us.png" group-title="USA ➾ LifeStyle",US: tru TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126714
 #EXTINF:-1 tvg-id="animalplanet.se" tvg-logo="" group-title="USA ➾ Nature",US: ANIMAL PLANET Europe
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126284
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-logo="" group-title="USA ➾ Nature",US: Animal Planet
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/AnimalPlanet.us.png" group-title="USA ➾ Nature",US: Animal Planet
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46815
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Nature",US: Love Nature 4K Ultra HD
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132799
@@ -5734,7 +5734,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126286
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132688
 #EXTINF:-1 tvg-id="aande.us" tvg-logo="" group-title="USA ➾ Documentary",US: A&E
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126200
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Documentary",US: American Heroes Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/AmericanHeroesChannel.us.png" group-title="USA ➾ Documentary",US: American Heroes Channel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126201
 #EXTINF:-1 tvg-id="cornerstonetelevision.us" tvg-logo="" group-title="USA ➾ Documentary",US: Court TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126203
@@ -5744,13 +5744,13 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126204
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=51
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Documentary",US: Discovery Science
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46825
-#EXTINF:-1 tvg-id="motortrend.us" tvg-logo="" group-title="USA ➾ Documentary",US: Discovery Velocity
+#EXTINF:-1 tvg-id="motortrend.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/MotorTrend.us.png" group-title="USA ➾ Documentary",US: Discovery Velocity
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126207
 #EXTINF:-1 tvg-id="historychannel.us" tvg-logo="" group-title="USA ➾ Documentary",US: History
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46802
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA ➾ Documentary",US: InfoWars
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126209
-#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-logo="" group-title="USA ➾ Documentary",US: Investigation Discovery
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/InvestigationDiscovery.us.png" group-title="USA ➾ Documentary",US: Investigation Discovery
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126210
 #EXTINF:-1 tvg-id="natgeowild.us" tvg-logo="" group-title="USA ➾ Documentary",US: Nat Geo
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46804
@@ -5762,7 +5762,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126214
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126215
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/ScientologyNetwork.us.png" group-title="USA ➾ Documentary",US: Scientology Network
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126216
-#EXTINF:-1 tvg-id="travelchannel.us" tvg-logo="" group-title="USA ➾ Documentary",US: Travel Channel
+#EXTINF:-1 tvg-id="travelchannel.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/TravelChannel.us.png" group-title="USA ➾ Documentary",US: Travel Channel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126217
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA",US: 30a TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127306
@@ -5866,7 +5866,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127325
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132648
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA",US: Daystar TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127324
-#EXTINF:-1 tvg-id="ewtn.us" tvg-logo="" group-title="USA",US: EWTN
+#EXTINF:-1 tvg-id="ewtn.us" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/EWTN.us.png" group-title="USA",US: EWTN
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=127326
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA",US: FOX 2
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=128469
@@ -6012,7 +6012,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46813
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=46836
 #EXTINF:-1 tvg-id="ctvnews.ca" tvg-logo="" group-title="Canada",CA: CTV News Channel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=72430
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="" group-title="GERMAN",DE: 3sat
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/3sat.de.png" group-title="GERMAN",DE: 3sat
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125678
 #EXTINF:-1 tvg-id="anixe.de" tvg-logo="" group-title="GERMAN",DE: ANIXE+
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125634
@@ -6038,7 +6038,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125457
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125683
 #EXTINF:-1 tvg-id="brfernsehensud.de" tvg-logo="" group-title="GERMAN",DE: Bayerisches Fernsehen Sud
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125684
-#EXTINF:-1 tvg-id="bibeltv.de" tvg-logo="" group-title="GERMAN",DE: Bibel TV
+#EXTINF:-1 tvg-id="bibeltv.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/BibelTV.de.png" group-title="GERMAN",DE: Bibel TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125685
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERMAN",DE: Bon Gusto
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125636
@@ -6048,11 +6048,11 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125458
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125459
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERMAN",DE: Cine Max Jurassic Park
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125460
-#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-logo="" group-title="GERMAN",DE: Crime+ Investigation
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/CrimePlusInvestigation.de.svg" group-title="GERMAN",DE: Crime+ Investigation
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125637
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERMAN",DE: CroTV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=128784
-#EXTINF:-1 tvg-id="dmax.de" tvg-logo="" group-title="GERMAN",DE: DMAX
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/DMAX.de.png" group-title="GERMAN",DE: DMAX
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125640
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERMAN",DE: DW Deutsch
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125828
@@ -6062,7 +6062,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125829
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125830
 #EXTINF:-1 tvg-id="ard.de" tvg-logo="" group-title="GERMAN",DE: Das Erste
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125638
-#EXTINF:-1 tvg-id="deluxemusic.de" tvg-logo="" group-title="GERMAN",DE: Deluxe Music
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/DeluxeMusic.de.png" group-title="GERMAN",DE: Deluxe Music
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125814
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERMAN",DE: Deutsches Musik Fernsehen
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125815
@@ -6090,7 +6090,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132481
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132482
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERMAN",DE: GERMANY BESONDERE 3
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132483
-#EXTINF:-1 tvg-id="deluxemusic.de" tvg-logo="" group-title="GERMAN",DE: Genius Plus TV
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/DeluxeMusic.de.png" group-title="GERMAN",DE: Genius Plus TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=128786
 #EXTINF:-1 tvg-id="geotelevision.de" tvg-logo="" group-title="GERMAN",DE: Geo TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125693
@@ -6108,7 +6108,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132488
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132489
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERMAN",DE: Go2 Travel
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=128787
-#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="" group-title="GERMAN",DE: HGTV
+#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/HGTV.de.png" group-title="GERMAN",DE: HGTV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125696
 #EXTINF:-1 tvg-id="hr.de" tvg-logo="" group-title="GERMAN",DE: HR Fernsehen
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125687
@@ -6118,11 +6118,11 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125697
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125698
 #EXTINF:-1 tvg-id="hse24trend.de" tvg-logo="" group-title="GERMAN",DE: HSE Trend
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125699
-#EXTINF:-1 tvg-id="jukebox.de" tvg-logo="" group-title="GERMAN",DE: Jukebox
+#EXTINF:-1 tvg-id="jukebox.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/Jukebox.de.png" group-title="GERMAN",DE: Jukebox
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125817
-#EXTINF:-1 tvg-id="juwelo.de" tvg-logo="" group-title="GERMAN",DE: Juwelo
+#EXTINF:-1 tvg-id="juwelo.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/Juwelo.de.png" group-title="GERMAN",DE: Juwelo
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125700
-#EXTINF:-1 tvg-id="ktv.de" tvg-logo="" group-title="GERMAN",DE: K-TV
+#EXTINF:-1 tvg-id="ktv.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/KTV.de.png" group-title="GERMAN",DE: K-TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125701
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERMAN",DE: KINO BOX 1
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125471
@@ -6146,9 +6146,9 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125478
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125479
 #EXTINF:-1 tvg-id="kabel1.de" tvg-logo="" group-title="GERMAN",DE: Kabel Eins
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125702
-#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-logo="" group-title="GERMAN",DE: Kabel Eins Classics
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/kabeleinsClassics.de.png" group-title="GERMAN",DE: Kabel Eins Classics
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125703
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="" group-title="GERMAN",DE: Kabel Eins Doku
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/kabeleinsDoku.de.png" group-title="GERMAN",DE: Kabel Eins Doku
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125704
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERMAN",DE: Kiel TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125470
@@ -6170,7 +6170,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125705
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125708
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERMAN",DE: MyTVplus
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125488
-#EXTINF:-1 tvg-id="munchentv.de" tvg-logo="" group-title="GERMAN",DE: München TV
+#EXTINF:-1 tvg-id="munchentv.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/MunchenTV.de.png" group-title="GERMAN",DE: München TV
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125710
 #EXTINF:-1 tvg-id="n24doku.de" tvg-logo="" group-title="GERMAN",DE: N24 Doku
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125644
@@ -6240,7 +6240,7 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125716
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125717
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERMAN",DE: Punktum
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125513
-#EXTINF:-1 tvg-id="qvc.de" tvg-logo="" group-title="GERMAN",DE: QVC Live
+#EXTINF:-1 tvg-id="qvc.de" tvg-logo="https://cdn.jsdelivr.net/gh/heartlog/worldtv@main/logo/QVC.de.png" group-title="GERMAN",DE: QVC Live
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125514
 #EXTINF:-1 tvg-id="qvcstyle.de" tvg-logo="" group-title="GERMAN",DE: QVC Style
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125515
